@@ -2,8 +2,7 @@
 - 👀 I’m interested in market finance 
 - 🌱 I’m currently learning asset and risk management at university of Lausanne
 - 💞️ I’m looking to collaborate on portfolio strategy, capital allocation, trading strategy
-- 📫 How to reach me enzo.rua
-- ⚡ Fun fact: ...
+- 📫 How to reach me enzo.rua@unil.ch
 
 <!---
 enzorua/enzorua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
